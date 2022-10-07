@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LearnCompose</string>
+    <string name="string_demo">We do pulse là một ứng dụng về sức khỏe giúp bạn kiểm tra sức khỏe bằng bào khảo sát, kiểm tra các chứng bệnh và gợi ý hướng xử lý phù hợp, từ đó bạn có thể rõ cơ thể và có giải pháp về sức khỏe phù hợp để bạn có thể chủ động hơn trong việc chăm sóc sức khỏe của mình mọi lúc mọi nơi.</string>
+
 </resources>
