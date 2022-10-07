@@ -115,7 +115,7 @@ private fun CreateCircleAvatar() {
 }
 
 @Composable
-fun CreateShadowRadiusImage() {
+private fun CreateShadowRadiusImage() {
     Image(
         painter = painterResource(
             id = R.drawable.ic_launcher_background
@@ -134,7 +134,7 @@ fun CreateShadowRadiusImage() {
 }
 
 @Composable
-fun CreateImageLoadFromUrl() {
+private fun CreateImageLoadFromUrl() {
     AsyncImage(
         model = ImageRequest.Builder(LocalContext.current)
             .data("https://images.pexels.com/photos/719396/pexels-photo-719396.jpeg?cs=srgb&dl=pexels-gabriel-peter-719396.jpg")
