@@ -14,7 +14,7 @@
         android:theme="@style/Theme.LearnCompose"
         tools:targetApi="31">
         <activity
-            android:name=".lesson_image.Image"
+            android:name=".lesson_textfield.TextField"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.LearnCompose">
