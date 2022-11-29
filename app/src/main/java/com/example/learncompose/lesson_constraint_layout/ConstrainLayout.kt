@@ -34,7 +34,7 @@ import androidx.constraintlayout.compose.Dimension
 import com.example.learncompose.R
 import com.example.learncompose.ui.theme.LearnComposeTheme
 
-class TextField : ComponentActivity() {
+class ConstrainLayout : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
